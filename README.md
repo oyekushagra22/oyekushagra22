@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 
-- 🔭 I’m currently working at **Cavisson Systems Inc.**
+- 🔭 I’m currently working at **Citrix System**
 
 - 🌱 I’m currently learning **Next.js, AI & ML(TensorFlow, PyTorch, NumPy, pandas, scikit-learn, R)**
 
