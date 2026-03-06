@@ -14,7 +14,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C3CE9&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=%F0%9F%94%A5+Building+Resilient+Network+Infrastructure;%F0%9F%94%AC+Kernel-Level+Bug+Hunter;%F0%9F%9A%80+Optimizing+Systems+One+Byte+at+a+Time;%F0%9F%94%90+Securing+Enterprise+Data+Planes;%F0%9F%A7%A0+1000%2B+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C3CE9&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=%F0%9F%94%A5+Building+Resilient+Network+Infrastructure;%F0%9F%94%AC+Bug+Hunter;%F0%9F%9A%80+Optimizing+Systems+One+Byte+at+a+Time;%F0%9F%94%90+Securing+Enterprise+Data+Planes;%F0%9F%A7%A0+1000%2B+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <br/><br/>
