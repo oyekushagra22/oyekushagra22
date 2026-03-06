@@ -241,7 +241,7 @@
 
 <img src="https://img.shields.io/badge/🛡️-Network_Security_%26_SSL_VPN-6c3ce9?style=for-the-badge&labelColor=0d1117" />
 
-<br/><br/>
+<br/>
 
 Citrix Gateway SSL VPN
 <br/>
@@ -258,7 +258,7 @@ mTLS & Certificate Management
 
 <img src="https://img.shields.io/badge/🐛-Crash_Analysis_%26_Debugging-00d4ff?style=for-the-badge&labelColor=0d1117" />
 
-<br/><br/>
+<br/>
 
 Core Dump Forensics (FreeBSD)
 <br/>
@@ -277,7 +277,7 @@ GDB & Wireshark Deep Dives
 
 <img src="https://img.shields.io/badge/⚙️-Systems_Programming-00ff88?style=for-the-badge&labelColor=0d1117" />
 
-<br/><br/>
+<br/>
 
 High-Performance C for Data Plane
 <br/>
@@ -294,7 +294,7 @@ CI/CD with Jenkins
 
 <img src="https://img.shields.io/badge/🤖-Automation_%26_Tooling-FF6B6B?style=for-the-badge&labelColor=0d1117" />
 
-<br/><br/>
+<br/>
 
 Automated Code Fixes at Scale
 <br/>
