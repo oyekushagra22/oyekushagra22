@@ -225,19 +225,6 @@ Advanced problems commonly asked in **top tech interviews**.
 
 ---
 
-# 📊 Problem Tracker
-
-| Problem | Pattern | Status |
-|------|------|------|
-| Fibonacci | Basic DP | ✅ |
-| Climbing Stairs | Fibonacci Pattern | ✅ |
-| House Robber | Decision DP | ⏳ |
-| Coin Change | Optimization DP | ⏳ |
-| Min Cost Climbing Stairs | 1D DP | ⏳ |
-| Longest Increasing Subsequence | Sequence DP | ⏳ |
-
----
-
 # 🧠 Key DP Patterns
 
 Most Dynamic Programming interview questions fall into a few patterns.
