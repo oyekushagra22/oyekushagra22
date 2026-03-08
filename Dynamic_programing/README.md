@@ -6,7 +6,7 @@ Learning and documenting <b>Dynamic Programming patterns, concepts, and problems
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Dynamic%20Programming-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Language-Multiple-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Language-C++-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Problem%20Solving-orange?style=for-the-badge"/>
 </p>
 
