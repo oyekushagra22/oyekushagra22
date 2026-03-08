@@ -16,9 +16,7 @@ Output
 */
 
 #include <iostream>
-#include <vector>\
-#include <stdlib.h>
-#include <algorithm>
+#include <vector>
 using namespace std;
 int robber(vector<int>& nums) {
     if(nums.empty()) return 0;
