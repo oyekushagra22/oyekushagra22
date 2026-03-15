@@ -65,7 +65,7 @@ Focus on understanding the **basic building blocks of C++**.
 
 Topics covered:
 
-* Introduction to C++
+* [Introduction to C++](fundamentals/introduction-cpp/README.md)
 * Structure of a C++ program
 * Variables and data types
 * Operators
