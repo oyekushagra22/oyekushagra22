@@ -66,9 +66,9 @@ Focus on understanding the **basic building blocks of C++**.
 Topics covered:
 
 * [Introduction to C++](Fundamentals/introduction-cpp//README.md)
+* [Structure of a C++ program](Fundamentals/C++_Program_Structure/README.md)
 * [How #include <iostream> Works Internally](Fundamentals/Iostream_Works_Internally/README.md)
-* [What Happens Internally When You Write cout << "Hello";]
-* Structure of a C++ program
+* [What Happens Internally When You Write cout << "Hello";](Fundamentals/Cout_internally_process/README.md)
 * Variables and data types
 * Operators
 * Control statements
