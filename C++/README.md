@@ -69,6 +69,7 @@ Topics covered:
 * [Structure of a C++ program](Fundamentals/C++_Program_Structure/README.md)
 * [How #include <iostream> Works Internally](Fundamentals/Iostream_Works_Internally/README.md)
 * [What Happens Internally When You Write cout << "Hello";](Fundamentals/Cout_internally_process/README.md)
+* [How "Hello" Is Stored in Memory](Fundamentals/Hello_stored_internally/README.md)
 * Variables and data types
 * Operators
 * Control statements
