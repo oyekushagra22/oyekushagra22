@@ -186,13 +186,13 @@ Most competitive programmers use **C++ for coding interviews and contests**.
 | Feature            | C          | C++            |
 | ------------------ | ---------- | -------------- |
 | Programming Type   | Procedural | Multi-paradigm |
-| OOP Support        | ❌ No       | ✅ Yes          |
-| Classes            | ❌ No       | ✅ Yes          |
-| Encapsulation      | ❌ No       | ✅ Yes          |
-| Polymorphism       | ❌ No       | ✅ Yes          |
-| Templates          | ❌ No       | ✅ Yes          |
-| STL                | ❌ No       | ✅ Yes          |
-| Exception Handling | ❌ No       | ✅ Yes          |
+| OOP Support        |   No       |   Yes          |
+| Classes            |   No       |   Yes          |
+| Encapsulation      |   No       |   Yes          |
+| Polymorphism       |   No       |   Yes          |
+| Templates          |   No       |   Yes          |
+| STL                |   No       |   Yes          |
+| Exception Handling |   No       |   Yes          |
 
 ---
 
