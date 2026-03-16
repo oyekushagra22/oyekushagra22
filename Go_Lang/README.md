@@ -68,7 +68,7 @@ Focus on understanding the **basic building blocks of Go**.
 Topics covered:
 
 * [What is Go](Fundamentals/Define_Go/README.md)
-* History of Go
+* [History of Go](Fundamentals/Go_History)
 * [Why Go was created](Fundamentals/Go_Created/README.md)
 * Go vs C++ vs Java vs Python
 * Advantages of Go
