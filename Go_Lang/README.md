@@ -67,7 +67,6 @@ Focus on understanding the **basic building blocks of Go**.
 
 Topics covered:
 
-* [Introduction to Go](01-introduction-to-go/README.md)
 * What is Go
 * History of Go
 * Why Go was created
