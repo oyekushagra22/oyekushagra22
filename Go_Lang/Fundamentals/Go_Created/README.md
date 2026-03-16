@@ -1,4 +1,4 @@
-## Why Go Was Created (Deep Explanation)
+## Why Go Was Created
 
 ### 1. The Problem at Large Companies
 
