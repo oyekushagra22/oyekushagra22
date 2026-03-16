@@ -69,7 +69,7 @@ Topics covered:
 
 * [What is Go](Fundamentals/Define_Go/README.md)
 * History of Go
-* Why Go was created
+* [Why Go was created](Fundamentals/Go_Created/README.md)
 * Go vs C++ vs Java vs Python
 * Advantages of Go
 * Where Go is used
