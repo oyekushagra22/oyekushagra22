@@ -75,14 +75,6 @@ Topics covered:
 * Where Go is used
 * Companies using Go
 
-Companies using Go:
-
-* Google
-* Uber
-* Dropbox
-* Netflix
-* Docker
-
 Environment setup:
 
 * Installing Go
