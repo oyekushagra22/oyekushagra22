@@ -73,7 +73,6 @@ Topics covered:
 * [Go vs C++ vs Java vs Python](Fundamentals/Go_Java_C++/README.md)
 * [Advantages of Go](Fundamentals/Advantage_Go/RAEDME.md)
 * Where Go is used
-* Companies using Go
 
 Environment setup:
 
