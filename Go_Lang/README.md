@@ -71,7 +71,7 @@ Topics covered:
 * [History of Go](Fundamentals/Go_History)
 * [Why Go was created](Fundamentals/Go_Created/README.md)
 * [Go vs C++ vs Java vs Python](Fundamentals/Go_Java_C++/README.md)
-* Advantages of Go
+* [Advantages of Go](Fundamentals/Advantage_Go/RAEDME.md)
 * Where Go is used
 * Companies using Go
 
